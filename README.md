@@ -5,7 +5,7 @@
 
 <!-- ===== TYPING INTRO ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Hey+there+%F0%9F%91%8B+I'm+Oum+Ussa;ANT+Scholarship+Student+%F0%9F%8E%93;Building+Web+%26+Mobile+Applications;Always+learning+new+things+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Hey+there+%F0%9F%91%8B+I'm+Oum+Ussa;RUPP+Student+%F0%9F%8E%93;Building+Web+%26+Mobile+Applications;Always+learning+new+things+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <!-- ===== BADGES ===== -->
@@ -159,27 +159,16 @@
 ---
 
 <!-- ===== GITHUB STATS ===== -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25" />
-  &nbsp;GitHub Stats
-</h2>
-
-<div align="center">
-
-  <!-- Stats + Streak side by side -->
-  <a href="https://github.com/Karamana1">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Karamana1&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  </a>
-  <a href="https://github.com/Karamana1">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Karamana1&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-  </a>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <br/><br/>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/Karamana1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karamana1&layout=compact&langs_count=8&hide=HTML&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  </a>
 
 </div>
 
@@ -200,10 +189,16 @@
 ---
 
 <!-- ===== SNAKE ===== -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25" />
-  &nbsp;Contribution Snake
-</h2>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 
 <div align="center">
   <picture>
