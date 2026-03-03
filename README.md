@@ -44,9 +44,7 @@
 
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Karamana1&theme=react&border_radius=10" />
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=Karamana1&show_icons=true&theme=react&border_radius=10" />
 
-<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karamana1&layout=compact&theme=react&border_radius=10" />
 </div>
 
 <br/>
