@@ -200,40 +200,6 @@
 <hr/>
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karamana1/Karamana1/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karamana1/Karamana1/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Karamana1/Karamana1/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-> **Note:** The snake animation requires a GitHub Actions workflow in your `Karamana1/Karamana1` repo.
-> See [platane/snk](https://github.com/platane/snk) for setup instructions.
-
----
-
-<!-- ===== TROPHIES ===== -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="25" />
-  &nbsp;Trophies
-</h2>
-
-<div align="center">
-  <a href="https://github.com/Karamana1">
-    <img src="https://github-profile-trophy.vercel.app/?username=Karamana1&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" />
-  </a>
-</div>
-
----
-
-<!-- ===== RANDOM DEV QUOTE ===== -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</div>
-
----
-
 <!-- ===== FOOTER ===== -->
 <div align="center">
   <sub>
