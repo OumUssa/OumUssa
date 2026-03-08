@@ -13,13 +13,13 @@
 
 <!-- ===== BADGES ===== -->
 <p align="center">
-  <a href="https://github.com/Karamana1?tab=followers">
+  <a href="https://github.com/OumUssa?tab=followers">
     <img src="https://img.shields.io/github/followers/OumUssa?style=for-the-badge&logo=github&label=Followers&color=6C63FF&labelColor=1a1a2e" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=OumUssa&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" />
   &nbsp;
-  <a href="https://github.com/Karamana1?tab=repositories&sort=stargazers">
+  <a href="https://github.com/OumUssa?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/OumUssa?style=for-the-badge&logo=github&label=Stars&color=6C63FF&labelColor=1a1a2e" />
   </a>
 </p>
@@ -157,7 +157,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/Karamana1" target="_blank">
+<a href="https://github.com/OumUssa" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
@@ -199,7 +199,7 @@
 
 <br/>
 
-<a href="https://github.com/Karamana1">
+<a href="https://github.com/OumUssa">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OumUssa&theme=tokyo-night&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true&custom_title=Oum%20Ussa's%20Contribution%20Graph" width="100%" />
 </a>
 
@@ -248,7 +248,7 @@ If you like what I do, consider giving a **⭐** to my repos!
 
 <br/>
 
-<a href="https://github.com/Karamana1?tab=repositories">
+<a href="https://github.com/OumUssa?tab=repositories">
   <img src="https://img.shields.io/badge/Check%20Out%20My%20Repos-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -261,7 +261,7 @@ If you like what I do, consider giving a **⭐** to my repos!
 
 👋 **Thanks for visiting my profile!**
 
-<sub>Feel free to <a href="https://github.com/Karamana1">follow</a> or star a repo if you find something useful.</sub>
+<sub>Feel free to <a href="https://github.com/OumUssa">follow</a> or star a repo if you find something useful.</sub>
 
 <br/><br/>
 
