@@ -42,15 +42,15 @@
     <tr>
       <td width="55%">
 
-> 🎓 &nbsp; **RUPP** Computer Science Student
+> 🎓 &nbsp; **RUPP** Information Technology Engineering
 >
 > 🌏 &nbsp; Based in **Cambodia** 🇰🇭
 >
-> 🔭 &nbsp; Currently building **web & mobile apps**
+> 🔭 &nbsp; Currently building **web Development**
 >
-> 📖 &nbsp; Learning **System Design & DevOps**
+> 📖 &nbsp; Learning **System Design & UI Clean & Website**
 >
-> 💬 &nbsp; Ask me about **Node.js, Laravel, Flutter, C++**
+> 💬 &nbsp; Ask me about **Node.js, Laravel, MYSQL ,Github , Hosting**
 >
 > 📬 &nbsp; Reach me at **oumussa719@gmail.com**
 >
